@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Shared Jobs</string>
+    <string name="formulario_de_cadastro">Formulário de cadastro</string>
+    <string name="nome_completo">Nome completo</string>
+    <string name="e_mail">E-mail</string>
+    <string name="pergunta_email_oportunidades">Deseja receber e-mails com oportunidades?</string>
+    <string name="telefone">Telefone</string>
+    <string name="residencial">Residencial</string>
+    <string name="comercial">Comercial</string>
+    <string name="adicionar_celular">Adicionar celular</string>
+    <string name="telefone_celular">Telefone celular</string>
+    <string name="sexo">Sexo</string>
+    <string name="data_de_nascimento">Data de nascimento</string>
+    <string name="formacao">Formação</string>
+    <string name="ano_de_conclusao">Ano de conclusão</string>
+    <string name="instituicao">Instituição</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="titulo_monografia">Título monografia</string>
+    <string name="orientador">Orientador</string>
+    <string name="vagas_de_interesse">Vagas de interesse</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
+    <string-array name="formacao">
+        <item>Fundamental</item>
+        <item>Médio</item>
+        <item>Graduação</item>
+        <item>Especialização</item>
+        <item>Mestrado</item>
+        <item>Doutorado</item>
+    </string-array>
+</resources>
